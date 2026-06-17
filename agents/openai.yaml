@@ -1,0 +1,6 @@
+interface:
+  display_name: "CapCut Highlight Draft"
+  short_description: "High-signal meeting clips to 剪映 draft"
+  default_prompt: "Use $capcut-highlight-draft to turn a meeting recording link into standalone high-value short-video clips and a CapCut/剪映 draft."
+policy:
+  allow_implicit_invocation: true
