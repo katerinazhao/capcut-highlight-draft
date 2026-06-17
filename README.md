@@ -16,9 +16,8 @@
 - `SKILL.md`：Skill 的核心定义和工作流
 - `agents/openai.yaml`：显示名和默认调用配置
 
-### 发布说明
 
-这个目录适合直接上传到 GitHub 作为一个独立 Skill 项目仓库。
+
 
 ## English
 
@@ -36,6 +35,4 @@
 - `SKILL.md`: core skill definition and workflow
 - `agents/openai.yaml`: display name and default invocation config
 
-### Publishing note
 
-This directory is ready to be published to GitHub as a standalone Skill repository.
